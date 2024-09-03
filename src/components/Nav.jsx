@@ -4,7 +4,7 @@ function Nav() {
         <>
             <div className="navbar bg-base-100">
                 <div className="navbar-start">
-                    <a className="btn btn-ghost text-xl">daisyUI</a>
+                    <a className="btn btn-ghost text-xl">Logo</a>
                 </div>
                
                 <div className="navbar-end">
